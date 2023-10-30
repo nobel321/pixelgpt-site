@@ -49,6 +49,11 @@
 	margin: 0 auto;
 }
 
+body {
+  border: 20px solid black;
+  cursor: url("sdfk1.jpeg"), auto;
+}
+
 .center{
   display: block;
   margin-left: auto;
